@@ -1,0 +1,85 @@
+{
+  "version": "1.0.0",
+
+  "album": {
+    "id": "this_place_will_become_your_tomb",
+    "name": "This Place Will Become Your Tomb",
+    "artist": "Sleep Token",
+    "cover": "disc.png"
+  },
+
+  "songs": [
+    {
+      "title": "Atlantic",
+      "length": 293,
+      "comparator": 15,
+      "file": "atlantic.ogg"
+    },
+    {
+      "title": "Hypnosis",
+      "length": 335,
+      "comparator": 15,
+      "file": "hypnosis.ogg"
+    },
+    {
+      "title": "Mine",
+      "length": 296,
+      "comparator": 15,
+      "file": "mine.ogg"
+    },
+    {
+      "title": "Like That",
+      "length": 214,
+      "comparator": 15,
+      "file": "like_that.ogg"
+    },
+    {
+      "title": "The Love You Want",
+      "length": 263,
+      "comparator": 15,
+      "file": "the_love_you_want.ogg"
+    },
+    {
+      "title": "Fall For Me",
+      "length": 146,
+      "comparator": 15,
+      "file": "fall_for_me.ogg"
+    },
+    {
+      "title": "Alkaline",
+      "length": 214,
+      "comparator": 15,
+      "file": "alkaline.ogg"
+    },
+    {
+      "title": "Distraction",
+      "length": 262,
+      "comparator": 15,
+      "file": "distraction.ogg"
+    },
+    {
+      "title": "Descending",
+      "length": 278,
+      "comparator": 15,
+      "file": "descending.ogg"
+    },
+    {
+      "title": "Telomeres",
+      "length": 307,
+      "comparator": 15,
+      "file": "telomeres.ogg"
+    },
+    {
+      "title": "High Water",
+      "length": 313,
+      "comparator": 15,
+      "file": "high_water.ogg"
+    },
+    {
+      "title": "Missing Limbs",
+      "length": 200,
+      "comparator": 15,
+      "file": "missing_limbs.ogg"
+    }
+  ]
+}
