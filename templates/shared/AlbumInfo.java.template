@@ -1,0 +1,27 @@
+package com.discforge.template.album;
+
+import com.discforge.template.api.Album;
+import com.discforge.template.api.SongInfo;
+
+import java.util.List;
+
+public final class AlbumInfo {
+
+    private AlbumInfo() {
+    }
+
+    public static final Album ALBUM = create();
+
+    private static Album create() {
+
+        return new Album(
+                "{{MOD_ID}}",
+                "{{ALBUM_ID}}",
+                "{{ALBUM_NAME}}",
+                "{{ARTIST}}",
+                List.of(
+{{SONGS}}
+                )
+        );
+    }
+}
