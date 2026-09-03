@@ -2,7 +2,7 @@ A simple README for now.
 
 Usage;
 - Add .ogg song files in /input/
-- Add a .png in /input/
+- Add .png in /input/
 - modify config.json to match your uploaded files
 - run generator.py
 
